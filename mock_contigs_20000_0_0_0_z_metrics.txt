@@ -1,0 +1,5 @@
+total_contigcount: 20000
+trunc_contig_count: 0
+true_count: 20000
+chimera_count: 0
+undefined_count: 0
